@@ -1,0 +1,196 @@
+<!-- PRIMER PLATO  -->
+
+<platos>
+  <primer_plato nombre="PLATO IBÉRICO 🥩" precio="16.99€" >
+    <ingrediente nombre="Jamón Ibérico" />
+    <ingrediente nombre="Queso Añejo" />
+    <ingrediente nombre="Mixto Jamón y Queso" />
+    <ingrediente nombre="Caña de Lomo Ibérica " />
+    <ingrediente nombre="Salchichón " />
+    <ingrediente nombre="Surtido de Ibéricos" />
+  </primer_plato>
+<primer_plato nombre="SOPA 🍲" precio="8€" >
+    <ingrediente nombre="1/2 pollo campero" />
+    <ingrediente nombre="3 zanahorias " />
+    <ingrediente nombre="1 puerro  " />
+    <ingrediente nombre="Varias ramas de apio  " />
+    <ingrediente nombre="1 cebolla  " />
+    <ingrediente nombre="Sal 🧂 " />
+    <ingrediente nombre="200 g de fideos finos   " />
+  </primer_plato>
+<primer_plato nombre="HUEVOS ESTRELLADOS 🍳 " precio="6.99€" >
+    <ingrediente nombre="4 huevos " />
+    <ingrediente nombre="4 o 5 patatas" />
+    <ingrediente nombre="150 g de jamón de buena calidad" />
+    <ingrediente nombre="Aceite de oliva virgen extra 🥬 " />
+    <ingrediente nombre="Sal " />
+  </primer_plato>
+<primer_plato nombre="PAPA A LA HUNCAINA 🧆" precio="13€" >
+    <ingrediente nombre="Pasta de ají amarillo cucharada" />
+    <ingrediente nombre="2 Patata grandes🥚" />
+    <ingrediente nombre=" 100g Queso fresco" />
+    <ingrediente nombre=" 10 Galletas saladas o crackers" />
+    <ingrediente nombre="100g Leche evaporada" />
+    <ingrediente nombre="Sal" />
+    <ingrediente nombre="Cogollo de lechuga" />
+    <ingrediente nombre="Huevo duro o cocido" />
+  </primer_plato>
+<primer_plato nombre="SAN JACOBOS" precio="6€" >
+    <ingrediente nombre="8 lonchas largas de jamón cocido" />
+    <ingrediente nombre="8 lonchas de queso" />
+    <ingrediente nombre="2 huevos " />
+    <ingrediente nombre="1 plato con harina " />
+    <ingrediente nombre="1 plato con pan rallado " />
+    <ingrediente nombre="sal " />
+    <ingrediente nombre="aceite para freír " />
+  </primer_plato>
+
+
+<!-- SEGUNDO PLATO  -->
+
+
+<segundo_plato nombre="ENSALADA CESAR 🥗" precio="8.50€" >
+    <ingrediente nombre="200 g lechuga romana" />
+    <ingrediente nombre="40 g queso parmesano 🧀" />
+    <ingrediente nombre="1/2 pechuga de pollo " />
+    <ingrediente nombre="Sal 🧂" />
+    <ingrediente nombre="Pimienta negra" />
+    <ingrediente nombre="Salsa César" />
+    <ingrediente nombre="Picatostes de pan" />
+  </segundo_plato>
+<segundo_plato nombre="PESCADO (ATÚN FRESCO) 🐟 " precio="14€" >
+    <ingrediente nombre=" 200g Atún fresco a temperatura ambiente" />
+    <ingrediente nombre="Pimiento amarillo" />
+    <ingrediente nombre="Pimiento verde italiano " />
+    <ingrediente nombre="Pimientos del piquillo" />
+    <ingrediente nombre="Aceite de oliva virgen extra" />
+    <ingrediente nombre="Sal gruesa" />
+    <ingrediente nombre="Salsa de soja" />
+  </segundo_plato>
+<segundo_plato nombre="PAELLA 🥘" precio="16€" >
+    <ingrediente nombre="400g Arroz Vaporizado de Grano Medio" />
+    <ingrediente nombre="1 pimiento rojo, cortado en tiras" />
+    <ingrediente nombre="1 tomate grande picado " />
+    <ingrediente nombre="2 dientes de ajo picados" />
+    <ingrediente nombre="6 cucharadas de aceite de oliva" />
+    <ingrediente nombre="2 cucharadas de perejil picado" />
+    <ingrediente nombre="2 cucharadas de pimentón dulce" />
+    <ingrediente nombre="300 g de rape, cortado en trozos" />
+    <ingrediente nombre="250 g de mejillones" />
+    <ingrediente nombre="150 g de anillas de calamar" />
+    <ingrediente nombre="12 camarones" />
+    <ingrediente nombre="1,5 lt de caldo de marisco" />
+    <ingrediente nombre="sal" />
+    <ingrediente nombre="hebras de azafrán" />
+  </segundo_plato>
+<segundo_plato nombre="ALBONDIGAS EN SALSA 🍨" precio="6€" >
+    <ingrediente nombre="500 g Carne picada" />
+    <ingrediente nombre="Perejil un manojo" />
+    <ingrediente nombre="3 Dientes de ajo"  />
+    <ingrediente nombre="1 Huevo"  />
+    <ingrediente nombre="Harina de trigo para rebozar las albóndigas"  />
+    <ingrediente nombre="500ml Caldo de pollo"  />
+    <ingrediente nombre="2 Cebolla"  />
+    <ingrediente nombre="50g Miga de pan"  />
+    <ingrediente nombre="100ml Leche"  />
+    <ingrediente nombre="1 Zanahoria"  />
+    <ingrediente nombre=" 200ml Vino blanco"  />
+  </segundo_plato>
+<segundo_plato nombre="GUISO DE SEPIA CON PATATAS 🐙" precio="8€" >
+    <ingrediente nombre="2 sepias" />
+    <ingrediente nombre="4 patatas" />
+    <ingrediente nombre=" 1 trozo de pimiento verde" />
+    <ingrediente nombre="1 cebolla mediana" />
+    <ingrediente nombre="4 cucharadas soperas de tomate frito" />
+    <ingrediente nombre="1 pizca de sal" />
+    <ingrediente nombre="1 cucharadita de pimentón" />
+  </segundo_plato>
+
+<!-- POSTRES  -->
+
+<postres nombre="FRUTAS 🍇" precio="2 €" >
+    <ingrediente nombre="Sandia🍉 " />
+    <ingrediente nombre="Melon🍈 " />
+    <ingrediente nombre="Platano🍌 " />
+    <ingrediente nombre="Kiwi🥝 " />
+    <ingrediente nombre="Piña🍍 " />
+    <ingrediente nombre="Coco🥥 " />
+  </postres>
+<postres nombre="TARTA DE CHOCOLATE 🍰" precio="4.50€" >
+    <ingrediente nombre="100 g de chocolate negro en tableta" />
+    <ingrediente nombre="5 huevos 🥚"  />
+    <ingrediente nombre="75 g de mantequilla blanda" />
+    <ingrediente nombre="60 g de azúcar" />
+    <ingrediente nombre="1 chorrito de esencia de vainilla o una cucharada de vainilla en polvo" />
+    <ingrediente nombre="75 g de harina" />
+    <ingrediente nombre="15 g de levadura química" />
+  </postres>
+<postres nombre="LLOGURT 🍮" precio="3€" >
+    <ingrediente nombre="Llogurt de limon" />
+    <ingrediente nombre="Llogurt de fresa" />
+    <ingrediente nombre="Llogurt natural" />
+  </postres>
+<postres nombre="TIRSAMISU 🍰" precio="5.50" >
+    <ingrediente nombre="500 g. de queso-crema Mascarpone" />
+    <ingrediente nombre="6 huevos M " />
+    <ingrediente nombre="150 g. de azúcar glass en polvo" />
+    <ingrediente nombre="300 g. de bizcochos savoiardi o de soletilla" />
+    <ingrediente nombre="4 cucharadas de Amaretto o el licor que nos guste" />
+    <ingrediente nombre="10 a 20 g. de cacao puro en polvo " />
+    <ingrediente nombre="150 ml. de café fuerte " />
+    <ingrediente nombre="1 pellizco de sal para montar las claras" />
+  </postres>
+<postres nombre="TARTA DE QUESO 🍰" precio="4.50" >
+    <ingrediente nombre="350 g. de vuestro queso crema preferido" />
+    <ingrediente nombre="2 huevos XL" />
+    <ingrediente nombre="175 g. nata 35% M.G.  " />
+    <ingrediente nombre="100 g. azúcar  " />
+    <ingrediente nombre="40 g. harina de trigo de todo uso" />
+  </postres>
+
+<!-- BEBIDAS  -->
+
+
+  <bebidas nombre="BEBIDA🥛" precio="1.50€" >
+    <ingrediente nombre="Agua " />
+  </bebidas>
+<bebidas nombre="REFRESCOS 🥃" precio="2€" >
+    <ingrediente nombre="Coca cola " />
+    <ingrediente nombre="Fanta Naranja " />
+    <ingrediente nombre="Fanta Limon " />
+    <ingrediente nombre="Trinaranjus " />
+  </bebidas>
+<bebidas nombre="CON/SIN ALCOHOL 🚫🍺" precio="2€ - 4€" >
+    <ingrediente nombre="Cerveza San miguel " />
+    <ingrediente nombre="Clara " />
+    <ingrediente nombre="Cervza con Limon " />
+    <ingrediente nombre="Cerveza Vooldamm " />
+    <ingrediente nombre="Cerveza 0 %" />
+    <ingrediente nombre="Vino" />
+  </bebidas>
+<bebidas nombre="CUBATAS 🍹" precio="6€" >
+    <ingrediente nombre="Ron con cola " />
+    <ingrediente nombre="Vodka con lima " />
+    <ingrediente nombre="Whisky Cola " />
+    <ingrediente nombre="Gin Tonic " />
+    <ingrediente nombre="Cerveza 0 %" />
+  </bebidas>
+<bebidas nombre="COCKETELES 🍸" precio="12€" >
+    <ingrediente nombre="Mojito " />
+    <ingrediente nombre="Caipirinha " />
+    <ingrediente nombre="Daikiri " />
+    <ingrediente nombre="Sex on the beach" />
+    <ingrediente nombre="Moscow Mule" />
+  </bebidas>
+
+<!-- BOCADILLOS -->
+
+<bocadillos nombre="BOCADILLOS " precio="4€" >
+    <ingrediente nombre="Salchicha " />
+    <ingrediente nombre="Hamburguesa " />
+    <ingrediente nombre="Becon con Queso o sin " />
+    <ingrediente nombre="Lomo con queso o sin " />
+    <ingrediente nombre="Frankfurt" />
+  </bocadillos>
+</platos>
+
